@@ -1,6 +1,6 @@
 {
     "name": "kx550/fathom",
-    "description": "Adds the Fathom tracking snipped to your site",
+    "description": "Adds the Fathom tracking snippet to your site",
     "type": "kirby-plugin",
     "require": {
         "getkirby/composer-installer": "^1.1"
