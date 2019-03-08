@@ -1,0 +1,15 @@
+{
+    "name": "kx550/fathom",
+    "description": "Adds the Fathom tracking snipped to your site",
+    "type": "kirby-plugin",
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Duvendack",
+            "email": "timduvendack@gmail.com"
+        }
+    ]
+}
