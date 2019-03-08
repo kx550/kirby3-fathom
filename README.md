@@ -1,6 +1,6 @@
 # Kirby 3 Fathom
 
-Plugin for Kirby 3 that adds the Fathom Tracking Code to your Kirby 3 site.
+Plugin for Kirby 3 that adds the [Fathom](https://github.com/usefathom/fathom) tracking code to your Kirby 3 site.
 
 If the user has set "Do Not Track" in the browser the code is not embedded.
 
